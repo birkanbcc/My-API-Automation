@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1394","getUserInfo","Default Suite","Wed Jan 22 02:43:57 GMT+03:00 2025","passed","Wed Jan 22 02:43:58 GMT+03:00 2025","PetStoreUserTests","My-API-Automation","PetStoreUserTests","getUserInfo"
+"","1263","updateUser","Default Suite","Wed Jan 22 02:43:58 GMT+03:00 2025","passed","Wed Jan 22 02:43:59 GMT+03:00 2025","PetStoreUserTests","My-API-Automation","PetStoreUserTests","updateUser"
+"","2367","deleteUser","Default Suite","Wed Jan 22 02:43:54 GMT+03:00 2025","passed","Wed Jan 22 02:43:57 GMT+03:00 2025","PetStoreUserTests","My-API-Automation","PetStoreUserTests","deleteUser"
+"","751","userCreate","Default Suite","Wed Jan 22 02:43:59 GMT+03:00 2025","passed","Wed Jan 22 02:44:00 GMT+03:00 2025","PetStoreUserTests","My-API-Automation","PetStoreUserTests","userCreate"
